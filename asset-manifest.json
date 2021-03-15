@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TecWilfridoGarcia/deploy-react-firebase/static/css/main.347fe691.chunk.css",
+    "main.js": "/TecWilfridoGarcia/deploy-react-firebase/static/js/main.a9c4d839.chunk.js",
+    "main.js.map": "/TecWilfridoGarcia/deploy-react-firebase/static/js/main.a9c4d839.chunk.js.map",
+    "runtime-main.js": "/TecWilfridoGarcia/deploy-react-firebase/static/js/runtime-main.1052cffe.js",
+    "runtime-main.js.map": "/TecWilfridoGarcia/deploy-react-firebase/static/js/runtime-main.1052cffe.js.map",
+    "static/js/2.ff30bf30.chunk.js": "/TecWilfridoGarcia/deploy-react-firebase/static/js/2.ff30bf30.chunk.js",
+    "static/js/2.ff30bf30.chunk.js.map": "/TecWilfridoGarcia/deploy-react-firebase/static/js/2.ff30bf30.chunk.js.map",
+    "static/js/3.af31d215.chunk.js": "/TecWilfridoGarcia/deploy-react-firebase/static/js/3.af31d215.chunk.js",
+    "static/js/3.af31d215.chunk.js.map": "/TecWilfridoGarcia/deploy-react-firebase/static/js/3.af31d215.chunk.js.map",
+    "index.html": "/TecWilfridoGarcia/deploy-react-firebase/index.html",
+    "static/css/main.347fe691.chunk.css.map": "/TecWilfridoGarcia/deploy-react-firebase/static/css/main.347fe691.chunk.css.map",
+    "static/js/2.ff30bf30.chunk.js.LICENSE.txt": "/TecWilfridoGarcia/deploy-react-firebase/static/js/2.ff30bf30.chunk.js.LICENSE.txt",
+    "static/media/google.3ecb0cbc.jpg": "/TecWilfridoGarcia/deploy-react-firebase/static/media/google.3ecb0cbc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1052cffe.js",
+    "static/js/2.ff30bf30.chunk.js",
+    "static/css/main.347fe691.chunk.css",
+    "static/js/main.a9c4d839.chunk.js"
+  ]
+}
